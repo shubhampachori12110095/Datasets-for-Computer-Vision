@@ -5,3 +5,13 @@ a) Fashion Related
 
 http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 
+
+
+
+
+
+
+b) Link for datascirence visualization ideas.
+
+https://vimeo.com/vgtcommunity
+
